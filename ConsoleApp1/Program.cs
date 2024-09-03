@@ -13,4 +13,3 @@ Console.WriteLine("Du är kort");
 }
 else 
 Console.WriteLine("du är lång");
-Console.ReadLine();
